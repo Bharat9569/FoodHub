@@ -2,7 +2,7 @@
 
 Welcome to **Food Hut**, a food ordering website developed during our second year of college. This project was created to provide users with a seamless and user-friendly platform to browse, order, and enjoy their favorite meals from local restaurants.
 
-Website Link - [Food Hut](https://ayushyadav89.github.io/FoodOrderApplication/public/index.html)
+Website Link - [FoodHub](https://github.com/Bharat9569/FoodHub)
 
 ## Project Overview 
 
@@ -22,7 +22,7 @@ Food Hut is designed to simplify the food ordering process, offering an intuitiv
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Ayushyadav89/FoodOrderApplication
+   git clone https://github.com/Bharat9569/FoodHub
 
 2. Install dependencies: `npm install`
 

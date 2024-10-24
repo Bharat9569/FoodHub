@@ -2,7 +2,7 @@
 
 Welcome to **Food Hut**, a food ordering website developed during our second year of college. This project was created to provide users with a seamless and user-friendly platform to browse, order, and enjoy their favorite meals from local restaurants.
 
-Website Link - [FoodHub](https://github.com/Bharat9569/FoodHub)
+Website Link - [FoodHub](https://ayushyadav89.github.io/FoodOrderApplication/public/index.html)
 
 ## Project Overview 
 
